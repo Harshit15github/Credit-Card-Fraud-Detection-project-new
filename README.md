@@ -1,28 +1,28 @@
 💳 Credit Card Fraud Detection using Machine Learning
-<br>
+<br><br>
 📌 Introduction
 
 Credit card fraud has become one of the fastest-growing cybercrimes, resulting in billions of dollars in losses every year. With the rise in online transactions, it’s critical to detect suspicious activities before they cause harm. This project applies machine learning techniques to analyze transaction patterns and identify fraudulent activity in credit card usage.
 
 Fraudulent activity can include:
 
-Unauthorized use of a stolen card
+  1.Unauthorized use of a stolen card
 
-Leaked credit card details being exploited online
+  2.Leaked credit card details being exploited online
 
-Fake accounts created using stolen identities
+  3.Fake accounts created using stolen identities
 
 By building and evaluating different models, this project aims to compare their effectiveness and determine which performs best for fraud detection.
 
 🎯 Objectives
 
-Detect fraudulent transactions in real-time datasets.
+  1.Detect fraudulent transactions in real-time datasets.
 
-Compare multiple ML algorithms and analyze their accuracy.
+  2.Compare multiple ML algorithms and analyze their accuracy.
 
-Provide visual insights into the dataset and prediction results.
+  3.Provide visual insights into the dataset and prediction results.
 
-Build a scalable baseline model that can be extended for real-world deployment.
+  4.Build a scalable baseline model that can be extended for real-world deployment.
 
 📊 Dataset
 
@@ -31,11 +31,11 @@ The dataset used is publicly available on Kaggle:
 
 Key details:
 
-Transactions made by European cardholders in September 2013 (2 days).
+1.Transactions made by European cardholders in September 2013 (2 days).
 
-Total rows: 284,808
+2.Total rows: 284,808
 
-Features: 31
+3.Features: 31
 
 28 features transformed using PCA (for confidentiality)
 
