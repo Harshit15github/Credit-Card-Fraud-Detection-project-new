@@ -1,4 +1,5 @@
 💳 Credit Card Fraud Detection using Machine Learning
+<br>
 📌 Introduction
 
 Credit card fraud has become one of the fastest-growing cybercrimes, resulting in billions of dollars in losses every year. With the rise in online transactions, it’s critical to detect suspicious activities before they cause harm. This project applies machine learning techniques to analyze transaction patterns and identify fraudulent activity in credit card usage.
